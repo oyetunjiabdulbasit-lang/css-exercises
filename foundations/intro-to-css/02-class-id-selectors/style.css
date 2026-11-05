@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd_n{
+  background-color: lightpink;
+  font-family: 'verdana','dejavu Sans','Sans-serif';
+}
+.scnd{
+  color: blue;
+  font-size: 36px;
+
+}
+.odd_n.big{
+  font-size: 24px;
+
+}
+.elmt_4{
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+
+}
